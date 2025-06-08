@@ -1,1 +1,3 @@
-prompt: 'Testing'
+rules:
+ - All variable must be camelCase
+ - Do not throw error without message
