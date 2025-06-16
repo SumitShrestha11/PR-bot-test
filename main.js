@@ -1,1 +1,1 @@
-const example_variable = 'Hello"
+const exampleVariable = "Hello"
