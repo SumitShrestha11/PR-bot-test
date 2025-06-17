@@ -1,5 +1,4 @@
 rules:
  - Check for JS error in the diffs
  - All variable must be camelCase
- - Semicolons are not necessary at the end of statements. Avoid semicolons at the end of statements if possible
  - Do not throw error without message
